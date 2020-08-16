@@ -18,13 +18,17 @@ Uses PHP embedded with MySQL for user registration and authentication. Styles bu
 
 ### Registration
 
+![alt text](images/registration.png "Sign Up")
 
 ### Welcome
 
+![alt text](images/welcome.png "Welcome Page")
 
 ### Account Details
 
 
+
 ### Password Reset
 
+![alt text](images/reset.png "Password Reset")
 
