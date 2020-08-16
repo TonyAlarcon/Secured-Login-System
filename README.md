@@ -13,11 +13,13 @@ Uses PHP embedded with MySQL for user registration and authentication. Styles bu
 
 ### Login
 
+Login page authenticates user-input credentails against 'users' database. Redirects to welcome page is match found. 
+
 <details>
   <summary>MySQL</summary>
   
   '''mysql
-      //Validating credentials
+   
     $SQLstring = "SELECT * FROM $Table WHERE Username='$Username' and password='$Password'";
     $QueryResult = mysqli_query($DBConnect, $SQLstring);
     if(mysqli_num_rows($QueryResult) == 0){
