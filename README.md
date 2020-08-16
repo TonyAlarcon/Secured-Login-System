@@ -13,6 +13,8 @@ Uses PHP embedded with MySQL for user registration and authentication. Styles bu
 
 ### Login
 
+![alt text](images/login.png "Login")
+
 
 ### Registration
 
