@@ -3,12 +3,12 @@ Uses PHP embedded with MySQL for user registration and authentication. Styles bu
 
 ## Summary
 
-1. [Login](login.php)
-2. Registration
-3. Welcome
-4. Account Details
-5. Password Reset
-6. Log out
+1. [Login](login.php) - Authenticates User Credentails Agaisnt Database
+2. [Registration](register.php) - Verifies Unique Credentials and Stores Data
+3. [Welcome](homepage.php) - Main Homepage
+4. [Account Details](account.php) - Details for Logged In User
+5. [Password Reset](passwordReset.php) - Updates Password Column in users Database
+6. [Log out](logout.php) - Destroys Current Session
 
 ### Welcome
 
