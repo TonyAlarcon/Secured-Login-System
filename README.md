@@ -1,9 +1,8 @@
-# secured-login-system
+# Secured-Login-System
 Uses PHP embedded with MySQL for user registration and authentication. Styles built with HTML and CSS.
 
-## Summary
 
-1. [Login](login.php) - Authenticates User Credentails Agaisnt Database
+1. [Login](login.php) - Authenticates User Credentails Against Database
 2. [Registration](register.php) - Verifies Unique Credentials and Stores Data
 3. [Welcome](homepage.php) - Main Homepage
 4. [Account Details](account.php) - Details for Logged In User
